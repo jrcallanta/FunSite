@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: 'Martel', serif;
+  background-color: #bee4d2;
+}
+
+hr {
+  color: white;
+  border-style: dotted none none;
+  border-width: 8px;
+  height: 0;
+  width: 80px
+}
+
+
+h1 {
+  margin: 0;
+  color: #5c8d89;
+  font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+  color: #5c8d89;
+  font-family: 'Poppins', sans-serif;
+}
+
+h4 {
+  margin: 20px;
+  color: #5c8d89;
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  color: #5ea3a6;
+}
+
+.Content {
+  padding-left: 20px;
+  margin-bottom: 50px;
+}
+
+.Paragraph {
+  padding-left: 20px;
+}
